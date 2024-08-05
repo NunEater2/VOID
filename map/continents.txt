@@ -1,0 +1,3 @@
+continents = {
+	1
+}

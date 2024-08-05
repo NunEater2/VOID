@@ -1,0 +1,1 @@
+YUR = "countries/Kingdom of Yuri.txt"
