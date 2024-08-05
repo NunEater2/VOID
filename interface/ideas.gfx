@@ -1,0 +1,5 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_Yuri_leader
+        texturefile = gfx/leaders/GFX_Yuri.dds
+    }

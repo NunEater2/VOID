@@ -1,7 +1,11 @@
 characters = {
     YUR_yuri = {
         name = YUR_yuri
-        #portraits = { }
+        portraits = {
+		civilian = {
+                large = GFX_Yuri_leader
+            }
+	 }
         country_leader = {
             ideology = despotism
             #traits = { }
