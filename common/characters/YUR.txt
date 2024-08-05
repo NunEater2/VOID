@@ -1,0 +1,10 @@
+characters = {
+    YUR_yuri = {
+        name = YUR_yuri
+        #portraits = { }
+        country_leader = {
+            ideology = despotism
+            #traits = { }
+        }
+    }
+}
