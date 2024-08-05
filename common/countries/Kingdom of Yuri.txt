@@ -3,5 +3,4 @@
 graphical_culture = european_gfx
 graphical_culture_2d = european_2d
 
-#color = { 249  208  213 } #white with a bit of red
-color = { 128  158  118 } #green
+color = rgb { 127  0  255 } #Purple
