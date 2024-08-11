@@ -15,17 +15,17 @@ state={
 	}
 
 	history={
-		
-		buildings = {
-			infrastructure = 1
-			air_base = 0
-			arms_factory = 0
-			industrial_complex = 0
-			
-			
-		}
-		
-	}
+        	owner = SAS
+        	buildings = {
+            		infrastructure = 1
+            		air_base = 0
+            		arms_factory = 0
+            		industrial_complex = 0
+
+
+        		}
+    			add_core_of = SAS
+    	}
 
 	provinces={
 		304 351 375 398 412 416 436 
