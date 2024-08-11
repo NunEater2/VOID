@@ -15,7 +15,7 @@ state={
 	}
 
 	history={
-		
+		owner = NPA
 		buildings = {
 			infrastructure = 1
 			air_base = 0
@@ -24,11 +24,11 @@ state={
 			
 			
 		}
-		
+	add_core_of = NPA	
 	}
 
 	provinces={
-		264 390 454 532 576 594 
+		390 454 532 264 594 576 
 	}
 	local_supplies=0.0 
 }
