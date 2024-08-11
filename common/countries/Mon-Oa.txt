@@ -1,0 +1,4 @@
+graphical_culture = asian_gfx
+graphical_culture_2d = asian_2d
+
+color = rgb { 199  136  163 } #Тёмно розовый

@@ -1,1 +1,2 @@
 YUR = "countries/Kingdom of Yuri.txt"
+MNO = "countries/Mon-Oa.txt
